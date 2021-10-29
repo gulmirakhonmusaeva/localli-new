@@ -300,6 +300,20 @@ img {
     margin-top: 12px;
 }
 
+
+/* AKKORDION */
+.akkordion {
+    padding-top: 100px;
+}
+
+.akkordion-container {
+    text-align: center;
+}
+
+.akkordion-title {
+    margin-bottom: 50px;
+}
+
 /* LOCALLI-SERVICE */
 
 .localli-service {
